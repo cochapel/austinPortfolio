@@ -1,2 +1,0 @@
-# austinPortfolio
-My Portfolio
