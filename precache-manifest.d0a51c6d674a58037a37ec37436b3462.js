@@ -1,27 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3a169293415f661155cc20811c61544e",
+    "revision": "5faffa89a869e6ffe03634b31347b57d",
     "url": "/austinPortfolio/index.html"
   },
   {
-    "revision": "8ee768b8f56fe179c577",
+    "revision": "53107a5b1c2a63417afb",
     "url": "/austinPortfolio/static/css/main.67e25c72.chunk.css"
   },
   {
-    "revision": "3e4582386056fd78480f",
-    "url": "/austinPortfolio/static/js/2.a86f534d.chunk.js"
+    "revision": "65c2487b32867ffd8b0a",
+    "url": "/austinPortfolio/static/js/2.d307d453.chunk.js"
   },
   {
-    "revision": "8ee768b8f56fe179c577",
-    "url": "/austinPortfolio/static/js/main.8cb82e79.chunk.js"
+    "revision": "53107a5b1c2a63417afb",
+    "url": "/austinPortfolio/static/js/main.2db189be.chunk.js"
   },
   {
     "revision": "f6417a9fc88e33a0598c",
     "url": "/austinPortfolio/static/js/runtime~main.98211d1e.js"
-  },
-  {
-    "revision": "2803a0e6de100b64d311fb539f693e51",
-    "url": "/austinPortfolio/static/media/CompImg.2803a0e6.png"
   },
   {
     "revision": "89a1d495e3ea315d9fa223548a9d9afe",
@@ -108,6 +104,38 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/austinPortfolio/static/media/iter2.773dad6a.jpg"
   },
   {
+    "revision": "78f21c3762926abe02fc4f028d12d0bc",
+    "url": "/austinPortfolio/static/media/iter22.78f21c37.jpg"
+  },
+  {
+    "revision": "1c3fb102766afbdf7c47d11ddac92c58",
+    "url": "/austinPortfolio/static/media/iter23.1c3fb102.jpg"
+  },
+  {
+    "revision": "2afd0daec9d0e3d79b77534d3454596b",
+    "url": "/austinPortfolio/static/media/iter24.2afd0dae.jpg"
+  },
+  {
+    "revision": "91670557c5e9b3001b902396f6607b14",
+    "url": "/austinPortfolio/static/media/iter25.91670557.jpg"
+  },
+  {
+    "revision": "191122dd6d26a0e19da30acf23526fb8",
+    "url": "/austinPortfolio/static/media/iter32.191122dd.jpg"
+  },
+  {
+    "revision": "73bd8a3d04bb553a0e83375c8fa57cc5",
+    "url": "/austinPortfolio/static/media/iter33.73bd8a3d.jpg"
+  },
+  {
+    "revision": "c79cea11f533cb3d707ad57714b3281c",
+    "url": "/austinPortfolio/static/media/iter34.c79cea11.jpg"
+  },
+  {
+    "revision": "7be5edb452d0113888a6f556b2e44bad",
+    "url": "/austinPortfolio/static/media/iter35.7be5edb4.jpg"
+  },
+  {
     "revision": "fa5059fa48e251680aa3ccc018926fd3",
     "url": "/austinPortfolio/static/media/myWire.fa5059fa.jpg"
   },
@@ -132,6 +160,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/austinPortfolio/static/media/sketch1.980c8520.jpg"
   },
   {
+    "revision": "d8549d5968e239d7d0ec223ed13f05b9",
+    "url": "/austinPortfolio/static/media/sketch1.d8549d59.jpg"
+  },
+  {
     "revision": "f76bb78cd6a15e046d0894110db4ecbe",
     "url": "/austinPortfolio/static/media/sketch1.f76bb78c.jpeg"
   },
@@ -140,8 +172,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/austinPortfolio/static/media/sketch2.0dc26975.jpg"
   },
   {
+    "revision": "49c20bece0e20e5e3c33ea9a3ed79ba2",
+    "url": "/austinPortfolio/static/media/sketch2.49c20bec.jpg"
+  },
+  {
     "revision": "9ce828586d4fb3a63da47e37a6e9a212",
     "url": "/austinPortfolio/static/media/sketch2.9ce82858.jpeg"
+  },
+  {
+    "revision": "02585e22af42c9d0123b637a67fddb6c",
+    "url": "/austinPortfolio/static/media/sketch3.02585e22.jpg"
   },
   {
     "revision": "832b98b6f91110457144135560fdfaf0",
@@ -150,6 +190,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ce842ceb4f3085e1b54cf3642afaa892",
     "url": "/austinPortfolio/static/media/sketch3.ce842ceb.jpg"
+  },
+  {
+    "revision": "2776de50c429f543656ad17dd03394fa",
+    "url": "/austinPortfolio/static/media/sketch4.2776de50.jpg"
+  },
+  {
+    "revision": "aa00a5dd0f0348fbe9885580aff9fdd3",
+    "url": "/austinPortfolio/static/media/sketch5.aa00a5dd.jpg"
   },
   {
     "revision": "e5e88ea4cd9dae380f4151db8a89c105",
