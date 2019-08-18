@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0aff8759dc6a4da5c0180d77131f04c2",
+    "revision": "df7df4d2e9734be27315583ee77f6508",
     "url": "/austinPortfolio/index.html"
   },
   {
-    "revision": "0c0cf2459fb696c6b1dd",
-    "url": "/austinPortfolio/static/css/main.b46b5a87.chunk.css"
+    "revision": "4b9dd5d25a9461daa61f",
+    "url": "/austinPortfolio/static/css/main.f8756618.chunk.css"
   },
   {
-    "revision": "65c2487b32867ffd8b0a",
-    "url": "/austinPortfolio/static/js/2.d307d453.chunk.js"
+    "revision": "dd83f02d2f0d75e6591c",
+    "url": "/austinPortfolio/static/js/2.390e4192.chunk.js"
   },
   {
-    "revision": "0c0cf2459fb696c6b1dd",
-    "url": "/austinPortfolio/static/js/main.1ed5265d.chunk.js"
+    "revision": "4b9dd5d25a9461daa61f",
+    "url": "/austinPortfolio/static/js/main.59d9d601.chunk.js"
   },
   {
     "revision": "f6417a9fc88e33a0598c",
@@ -136,6 +136,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/austinPortfolio/static/media/iter35.7be5edb4.jpg"
   },
   {
+    "revision": "fabd3ce3e5688e215725a821c9aca149",
+    "url": "/austinPortfolio/static/media/myLogo.fabd3ce3.jpg"
+  },
+  {
     "revision": "fa5059fa48e251680aa3ccc018926fd3",
     "url": "/austinPortfolio/static/media/myWire.fa5059fa.jpg"
   },
@@ -154,6 +158,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e73f2ff9357e7930b41076593f1198af",
     "url": "/austinPortfolio/static/media/phillips_infographic3.e73f2ff9.png"
+  },
+  {
+    "revision": "10c4f7e41d893944a5cbf387d36adc62",
+    "url": "/austinPortfolio/static/media/portExamp.10c4f7e4.png"
+  },
+  {
+    "revision": "63189dd2a0b3a9d242816d7b1b4d9598",
+    "url": "/austinPortfolio/static/media/portProject_desktop.63189dd2.jpg"
+  },
+  {
+    "revision": "21882b583519ae69eab1b8e6d3d7ceb8",
+    "url": "/austinPortfolio/static/media/portProject_mobile.21882b58.jpg"
+  },
+  {
+    "revision": "0f42c1a2922c5b29dc89a8f453133bdd",
+    "url": "/austinPortfolio/static/media/portStyleguide.0f42c1a2.png"
   },
   {
     "revision": "980c852092afbe2d17b5ae2f01a2a5ce",
@@ -214,5 +234,17 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2e39123a089a8146331590e0bbc3998a",
     "url": "/austinPortfolio/static/media/vectorArtLogo.2e39123a.jpg"
+  },
+  {
+    "revision": "7508974bde81956eee36da1b6be16388",
+    "url": "/austinPortfolio/static/media/wireframe_desktop.7508974b.png"
+  },
+  {
+    "revision": "561a602272219147c9f0c92357f7b543",
+    "url": "/austinPortfolio/static/media/wireframe_desktop2.561a6022.png"
+  },
+  {
+    "revision": "3660273f05e0eae49b501fadf4d6e7cb",
+    "url": "/austinPortfolio/static/media/wireframe_mobile.3660273f.png"
   }
 ]);
