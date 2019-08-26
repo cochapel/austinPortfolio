@@ -1,23 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "df7df4d2e9734be27315583ee77f6508",
+    "revision": "78de2427112d0f0355aed6ec9bd67750",
     "url": "/austinPortfolio/index.html"
   },
   {
-    "revision": "4b9dd5d25a9461daa61f",
+    "revision": "aba7eb4ec7d2ca70706b",
     "url": "/austinPortfolio/static/css/main.f8756618.chunk.css"
   },
   {
-    "revision": "dd83f02d2f0d75e6591c",
-    "url": "/austinPortfolio/static/js/2.390e4192.chunk.js"
+    "revision": "b1de7f6aba44fd265908",
+    "url": "/austinPortfolio/static/js/2.fe37a2b1.chunk.js"
   },
   {
-    "revision": "4b9dd5d25a9461daa61f",
-    "url": "/austinPortfolio/static/js/main.59d9d601.chunk.js"
+    "revision": "aba7eb4ec7d2ca70706b",
+    "url": "/austinPortfolio/static/js/main.a376f992.chunk.js"
   },
   {
     "revision": "f6417a9fc88e33a0598c",
     "url": "/austinPortfolio/static/js/runtime~main.98211d1e.js"
+  },
+  {
+    "revision": "0acca860846d774ed2ca97f7d03eea30",
+    "url": "/austinPortfolio/static/media/CampusYUserJourney.0acca860.png"
+  },
+  {
+    "revision": "67a5d5e74f7ba94d96a082d43cb9d378",
+    "url": "/austinPortfolio/static/media/CampusYUserJourney2.67a5d5e7.png"
   },
   {
     "revision": "89a1d495e3ea315d9fa223548a9d9afe",
@@ -48,14 +56,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/austinPortfolio/static/media/busAppLogo.01b39e64.jpg"
   },
   {
-    "revision": "099923b6b1e5b24eaa96b7a812f87f32",
-    "url": "/austinPortfolio/static/media/campYSketch.099923b6.jpg"
-  },
-  {
-    "revision": "c06db5d693c892dcdd5c14b728387146",
-    "url": "/austinPortfolio/static/media/campYSketch2.c06db5d6.jpg"
-  },
-  {
     "revision": "3648e94a0bda6f0b3f63cbaa10ff5b65",
     "url": "/austinPortfolio/static/media/campYmocks.3648e94a.png"
   },
@@ -66,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "bbd75bff6314b9a7c189eb6d25b4a041",
     "url": "/austinPortfolio/static/media/campusYLogo.bbd75bff.jpg"
+  },
+  {
+    "revision": "3812f2192d14ccf85508fa903168bb5d",
+    "url": "/austinPortfolio/static/media/committees.3812f219.jpg"
   },
   {
     "revision": "52d1ff3aeb8065e06102280786aa20b0",
@@ -148,6 +152,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/austinPortfolio/static/media/nccfPlat.618ccc5a.png"
   },
   {
+    "revision": "4ac69fec042286daf5102ae0a903a49e",
+    "url": "/austinPortfolio/static/media/newsletter.4ac69fec.jpg"
+  },
+  {
     "revision": "4149cd4868e6a48d01d865e40da02c4a",
     "url": "/austinPortfolio/static/media/persona1.4149cd48.png"
   },
@@ -174,6 +182,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0f42c1a2922c5b29dc89a8f453133bdd",
     "url": "/austinPortfolio/static/media/portStyleguide.0f42c1a2.png"
+  },
+  {
+    "revision": "f367da587f01e620484642b3425fefd5",
+    "url": "/austinPortfolio/static/media/reservation.f367da58.jpg"
   },
   {
     "revision": "980c852092afbe2d17b5ae2f01a2a5ce",
